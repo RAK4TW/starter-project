@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/RAK4TW/starter-project/static/css/main.a617e044.chunk.css",
-    "main.js": "/RAK4TW/starter-project/static/js/main.f07380ab.chunk.js",
-    "main.js.map": "/RAK4TW/starter-project/static/js/main.f07380ab.chunk.js.map",
-    "runtime-main.js": "/RAK4TW/starter-project/static/js/runtime-main.aa3bc3a7.js",
-    "runtime-main.js.map": "/RAK4TW/starter-project/static/js/runtime-main.aa3bc3a7.js.map",
-    "static/js/2.6de947b0.chunk.js": "/RAK4TW/starter-project/static/js/2.6de947b0.chunk.js",
-    "static/js/2.6de947b0.chunk.js.map": "/RAK4TW/starter-project/static/js/2.6de947b0.chunk.js.map",
-    "static/js/3.f50f1b0c.chunk.js": "/RAK4TW/starter-project/static/js/3.f50f1b0c.chunk.js",
-    "static/js/3.f50f1b0c.chunk.js.map": "/RAK4TW/starter-project/static/js/3.f50f1b0c.chunk.js.map",
+    "main.css": "/RAK4TW/starter-project/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/RAK4TW/starter-project/static/js/main.21717301.chunk.js",
+    "main.js.map": "/RAK4TW/starter-project/static/js/main.21717301.chunk.js.map",
+    "runtime-main.js": "/RAK4TW/starter-project/static/js/runtime-main.c810ff87.js",
+    "runtime-main.js.map": "/RAK4TW/starter-project/static/js/runtime-main.c810ff87.js.map",
+    "static/js/2.3dacc5e3.chunk.js": "/RAK4TW/starter-project/static/js/2.3dacc5e3.chunk.js",
+    "static/js/2.3dacc5e3.chunk.js.map": "/RAK4TW/starter-project/static/js/2.3dacc5e3.chunk.js.map",
+    "static/js/3.3d43a08c.chunk.js": "/RAK4TW/starter-project/static/js/3.3d43a08c.chunk.js",
+    "static/js/3.3d43a08c.chunk.js.map": "/RAK4TW/starter-project/static/js/3.3d43a08c.chunk.js.map",
     "index.html": "/RAK4TW/starter-project/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/RAK4TW/starter-project/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.6de947b0.chunk.js.LICENSE.txt": "/RAK4TW/starter-project/static/js/2.6de947b0.chunk.js.LICENSE.txt",
+    "static/css/main.8c8b27cf.chunk.css.map": "/RAK4TW/starter-project/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.3dacc5e3.chunk.js.LICENSE.txt": "/RAK4TW/starter-project/static/js/2.3dacc5e3.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/RAK4TW/starter-project/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.aa3bc3a7.js",
-    "static/js/2.6de947b0.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.f07380ab.chunk.js"
+    "static/js/runtime-main.c810ff87.js",
+    "static/js/2.3dacc5e3.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.21717301.chunk.js"
   ]
 }
